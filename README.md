@@ -1,0 +1,4 @@
+-Hello World, my name is @saamdezham
+-A fun fact about me is that I am the first person in my family to study computer science
+-My favorite language right now is python and I am getting to know the libraries a little more on there
+-Happy coding
